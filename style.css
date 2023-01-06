@@ -6,7 +6,7 @@ body {
   margin:0;
 }
 
-.bg {
+.background {
   animation:slide 3s ease-in-out infinite alternate;
   background-image: linear-gradient(-60deg, #6c3 50%, #09f 50%);
   bottom:0;
@@ -18,12 +18,12 @@ body {
   z-index:-1;
 }
 
-.bg2 {
+.background2 {
   animation-direction:alternate-reverse;
   animation-duration:4s;
 }
 
-.bg3 {
+.background3 {
   animation-duration:5s;
 }
 
